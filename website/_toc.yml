@@ -10,3 +10,4 @@ parts:
   - caption: Fysik
     chapters:
     - file: chapters/physics/einstein
+      file: chapters/physics/newton
