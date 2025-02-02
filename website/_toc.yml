@@ -6,8 +6,8 @@ root: index
 parts:
   - caption: Fotboll
     chapters:
-    - file: chapters/football/zlatan
+    - file: parts/football/zlatan
   - caption: Fysik
     chapters:
-    - file: chapters/physics/einstein
-      file: chapters/physics/newton
+    - file: parts/physics/einstein
+      file: parts/physics/newton
